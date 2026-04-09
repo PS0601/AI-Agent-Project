@@ -1,0 +1,11 @@
+#the shopping list of libraries to install
+# What are these 3 libraries?
+
+# anthropic — lets your Python code talk to Claude
+# tavily-python — a search engine built specifically for AI agents (way easier than Google Search API)
+# python-dotenv — reads your API keys from the .env file so you don't hardcode secrets
+openai
+tavily-python
+python-dotenv
+streamlit
+groq
